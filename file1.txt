@@ -1,3 +1,4 @@
 I am the original file.
 I added this line in master.
 And this line too.
+I added this line in branch1.

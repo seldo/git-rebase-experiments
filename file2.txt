@@ -1,1 +1,2 @@
 I am the other branch.
+I added this line in branch1.
